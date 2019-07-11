@@ -17,6 +17,7 @@ library(dplyr)
 library(magrittr)
 library(tidyr)
 library(stringr)
+library(glue)
 
 demofile <- "C:/Users/Ethan/Downloads/Ethan_Contacts.vcf"
 
